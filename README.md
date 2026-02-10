@@ -1,8 +1,16 @@
-La traduction française est ci-dessous. 👇
-<h1>Hi, I'm Chehab MOSAAD! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">A Cloud and Cybersecurity Student</a> <br/> Welcome on my profile 👋</h1>
+﻿La traduction française est ci-dessous. 👇
+<h1>Hi, I'm Chehab MOSAAD! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">DevSecOps & Cloud Security Engineer</a> <br/> Welcome on my profile 👋</h1>
 
 <h2>🙌 About me:</h2>
-Currently an apprentice at the engineering school EFREI Paris in the second year of Networks and Security (RS). Coming from a multidisciplinary background, I am extremely motivated to constantly develop my skills and grow professionally. Also, I like teamwork thus I am committed and proactive for its success.
+Recently graduated from EFREI Paris with an Engineering Diploma in Networks & Security, I bring hands-on experience from apprenticeships and internships at Axway, Huawei, and Orange Business. I specialize in cloud infrastructure, CI/CD pipelines, containerization, and security automation. My multicultural background — born in Egypt, educated in France — drives my ability to collaborate across teams and cultures. I am actively seeking DevSecOps / Cloud Security Engineer positions where I can contribute to building resilient, scalable, and secure systems.
+
+<h2>🛠️ Tools & Technologies:</h2>
+
+- <b>DevSecOps & CI/CD:</b> Docker · Podman · Kubernetes · Helm · Terraform · Ansible · Jenkins · GitHub Actions · GitLab CI
+- <b>Monitoring, Logging & Tracing:</b> Prometheus · Grafana · Zabbix · cAdvisor · Elasticsearch · Kibana · ELK Stack · Jaeger
+- <b>Security & Networking:</b> SonarQube · Snyk Code · Burp Suite · Trivy · WireGuard · OpenVPN · Wireshark · Packet Tracer
+- <b>Languages & Scripting:</b> Python · Java · C · O'Caml · SQL · PHP · HTML/CSS · JavaScript · Unix Shell · PowerShell
+- <b>Cloud, Version Control & Project Management:</b> AWS · Azure · GitHub · GitLab · Jira · Trello
 
 <h2>👨‍💻 Software Development and Technical Projects:</h2>
 
@@ -31,10 +39,18 @@ Currently an apprentice at the engineering school EFREI Paris in the second year
 <br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
 
 <hr>
-<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Un étudiant en cloud et cybersécurité</a> <br/> Bienvenue sur mon profil 👋 </h1>
+<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Ingénieur DevSecOps & Sécurité Cloud</a> <br/> Bienvenue sur mon profil 👋 </h1>
 
 <h2>🙌 À propos de moi :</h2> 
-Actuellement étudiant à la grande école d’ingénieurs EFREI Paris en deuxème année de réseaux et sécurité (RS) en apprentissage. Issu d’un parcours multidisciplinaire, je suis extrêmement motivé pour développer constamment mes compétences et évoluer professionnellement. De plus, j’aime le travail d’équipe et je suis engagé et proactif pour sa réussite.
+Récemment diplômé d'EFREI Paris avec un Diplôme d'Ingénieur en Réseaux & Sécurité, j'apporte une expérience concrète issue d'apprentissages et de stages chez Axway, Huawei et Orange Business. Je me spécialise dans l'infrastructure cloud, les pipelines CI/CD, la conteneurisation et l'automatisation de la sécurité. Mon parcours multiculturel — né en Égypte, formé en France — renforce ma capacité à collaborer au sein d'équipes et de cultures diverses. Je recherche activement des postes d'Ingénieur DevSecOps / Sécurité Cloud où je pourrai contribuer à construire des systèmes résilients, évolutifs et sécurisés.
+
+<h2>🛠️ Outils & Technologies :</h2>
+
+- <b>DevSecOps & CI/CD :</b> Docker · Podman · Kubernetes · Helm · Terraform · Ansible · Jenkins · GitHub Actions · GitLab CI
+- <b>Monitoring, Logging & Tracing :</b> Prometheus · Grafana · Zabbix · cAdvisor · Elasticsearch · Kibana · ELK Stack · Jaeger
+- <b>Sécurité & Réseaux :</b> SonarQube · Snyk Code · Burp Suite · Trivy · WireGuard · OpenVPN · Wireshark · Packet Tracer
+- <b>Langages & Scripting :</b> Python · Java · C · O'Caml · SQL · PHP · HTML/CSS · JavaScript · Unix Shell · PowerShell
+- <b>Cloud, Gestion de Versions & Gestion de Projets :</b> AWS · Azure · GitHub · GitLab · Jira · Trello
 
 <h2>👨‍💻 Développement logiciel et projets techniques :</h2>
 
