@@ -34,7 +34,7 @@ Recently graduated from EFREI Paris with an Engineering Diploma in Networks & Se
   - [Carrying out various work on Linux using tools such as OpenVPN, Openvswitch, Lxd, PowerShell, Apache and Jekyll](https://github.com/Chehab-MOSAAD/TP-Adm-Linux)
 
 <h2> 🤳 Connect with me:</h2>
--> 📧 Email: Chehab.mosaad@efrei.net
+-> 📧 Email: mosaadchehab@gmail.com
 <br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
 <br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
 
@@ -74,6 +74,6 @@ Récemment diplômé d'EFREI Paris avec un Diplôme d'Ingénieur en Réseaux & S
   - [Effectuer divers travaux sur Linux en utilisant des outils tels que OpenVPN, Openvswitch, Lxd, PowerShell, Apache et Jekyll](https://github.com/Chehab-MOSAAD/TP-Adm-Linux)
 
 <h2> 🤳 Contactez-moi :</h2> 
--> 📧 Email : Chehab.mosaad@efrei.net 
+-> 📧 Email : mosaadchehab@gmail.com
 <br/>-> 🔗 LinkedIn : <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Chehab MOSAAD</a>
 <br/>-> 📱 Consultez mon site web portfolio en ligne : https://chehab-mosaad.github.io/
