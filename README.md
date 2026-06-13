@@ -39,7 +39,7 @@ Recently graduated from EFREI Paris with an Engineering Diploma in Networks & Se
 <br/>-> 📱 Check my online portfolio website: https://chehab-mosaad.github.io/
 
 <hr>
-<h1>Bonjour, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Ingénieur DevSecOps & Sécurité Cloud</a> <br/> Bienvenue sur mon profil 👋 </h1>
+<h1>Salut, je suis Chehab MOSAAD ! <br/> <a href="https://fr.linkedin.com/in/chehab-mosaad-8b3b8311a">Ingénieur DevSecOps & Sécurité Cloud</a> <br/> Bienvenue sur mon profil 👋 </h1>
 
 <h2>🙌 À propos de moi :</h2> 
 Récemment diplômé d'EFREI Paris avec un Diplôme d'Ingénieur en Réseaux & Sécurité, j'apporte une expérience concrète issue d'apprentissages et de stages chez Axway, Huawei et Orange Business. Je me spécialise dans l'infrastructure cloud, les pipelines CI/CD, la conteneurisation et l'automatisation de la sécurité. Mon parcours multiculturel — né en Égypte, formé en France — renforce ma capacité à collaborer au sein d'équipes et de cultures diverses. Je recherche activement des postes d'Ingénieur DevSecOps / Sécurité Cloud où je pourrai contribuer à construire des systèmes résilients, évolutifs et sécurisés.
